@@ -1,0 +1,1 @@
+Serial: Average time per time step = 1.089252e-002 seconds
